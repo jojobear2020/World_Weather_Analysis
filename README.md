@@ -6,7 +6,7 @@ This was a fun and challenging project.
 **Pros:**
 * Free APIs
 * glimpse into how itinerary/weather maps work
-* fun to work with ever changing datatset if reset kernel (Bye Italy itinerary/trip! Hello Australia!)
+* fun to work with ever changing datatset if reset kernel (**Bye long planned Italy trip! :( Hello Australia! :)**)
 
 **Cons:**
 * Free API system can be slow and block user from continuing working on the code if limit was exceeded
